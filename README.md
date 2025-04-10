@@ -1,4 +1,4 @@
-This is an example version of how I made my fic archive site that you can mess with or drop your own fic into to make it yours. 
+This is an example version of how I made my fic archive site that you can mess with or drop your own fic into to make it yours. You can clone this repo to your computer, install hugo, mess with it, and use it as your website.
 
 To mess with the menu on the main page, go to data/menu.toml
 
