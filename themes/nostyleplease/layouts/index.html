@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<header>
+    <h1>{{ $.Site.Title }}</h1>
+    {{- if $.Site.Params.theme_config.show_description -}}
+        <p>{{ $.Site.Params.description }}</p>
+    {{- end -}}
+<style>
+
+    #frame {
+        -ms-zoom: 0.6;
+        -moz-transform: scale(0.6);
+        -moz-transform-origin: 0 0;
+        -o-transform: scale(0.6);
+        -o-transform-origin: 0 0;
+        -webkit-transform: scale(0.6);
+        -webkit-transform-origin: 0 0;
+    }
+</style>
+
+</header>
+{{ .Content }}
+{{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}
+
+
+
+{{ end }}

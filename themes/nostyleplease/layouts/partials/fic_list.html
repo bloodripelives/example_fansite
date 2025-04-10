@@ -1,0 +1,44 @@
+{{- $fic := "" -}}
+
+{{- if .section -}}
+    {{- $fic = (where site.RegularPages "Section" .section) -}}
+{{- else -}}
+    {{- if (eq .context.Kind "taxonomy") -}}
+        {{- $fic = .context.Pages -}}
+    {{- else -}}
+        {{- if (eq .context.Kind "term") -}}
+            {{- $fic = .context.Data.Pages -}}
+	{{- else -}}
+            {{- $fic = site.RegularPages }}
+	{{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- $limit_exceeded:= "" -}}
+{{- if (and .limit (gt (len $fic) .limit)) -}}
+    {{- $limit_exceeded = true -}}
+{{- else -}}
+    {{- $limit_exceeded = false -}}
+{{ end }}
+
+{{- if (gt (len $fic) 0) }}
+    {{- if .limit }}
+        {{ $fic = (first .limit $fic ) }}
+    {{ end }}
+    <ul>
+        {{- range $post := $fic -}}
+        
+      
+
+
+
+        <li>            
+            <a href="{{ $post.Permalink | relURL }}">{{ $post.Title }}</a>  {{ $post.Summary }}
+        </li>
+
+
+
+        {{ end }}
+
+    </ul>
+{{ end }}
