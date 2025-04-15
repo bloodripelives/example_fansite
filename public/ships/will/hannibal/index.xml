@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Will/Hannibal on Home</title>
+    <link>http://localhost:44065/ships/will/hannibal/</link>
+    <description>Recent content in Will/Hannibal on Home</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Dec 2023 14:19:26 +0000</lastBuildDate>
+    <atom:link href="http://localhost:44065/ships/will/hannibal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>a yummy example fanfiction</title>
+      <link>http://localhost:44065/fics/example_3/</link>
+      <pubDate>Thu, 07 Dec 2023 14:19:26 +0000</pubDate>
+      <guid>http://localhost:44065/fics/example_3/</guid>
+      <description>Some characters eat some stuff.</description>
+    </item>
+  </channel>
+</rss>

@@ -3,7 +3,8 @@ title: 'an example fic'
 date: Sun, 20 Aug 2023 03:49:17 +0000
 draft: false
 fandoms: ["Supernatural", "Bible"]
-categories: ["Dean/Cas"]
+categories: ["blasphemy"]
+ships: ["Dean/Cas"]
 summary: 'Some characters do some stuff.'
 ---
 

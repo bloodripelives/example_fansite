@@ -1,5 +1,5 @@
 [[entries]]
-title = "Read the fanfiction:"
+title = "Fanfiction:"
 [[entries.entries]]
 title = "sorted by fandom"
 url = "fandoms"
@@ -7,21 +7,13 @@ url = "fandoms"
 title = "sorted by category"
 url = "categories"
 [[entries.entries]]
+title = "sorted by ship"
+url = "ships"
+[[entries.entries]]
 title = "or start with my personal favourites"
 url = "categories/favourites"
 
-[[entries]]
-title = "Readme for this example site"
-url = "readme"
 
-[[entries]]
-title = "Some other example page I want to link here"
-url = "top_level_example_page"
-
-
-[[entries]]
-title = "Some other link to somewhere else"
-url = "https://www.example.com/"
 
 
 [[entries]]

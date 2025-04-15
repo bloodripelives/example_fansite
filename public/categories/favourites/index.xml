@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Favourites on An example fanfiction site.</title>
-    <link>http://localhost:1313/categories/favourites/</link>
-    <description>Recent content in Favourites on An example fanfiction site.</description>
+    <title>Favourites on Home</title>
+    <link>http://localhost:44065/categories/favourites/</link>
+    <description>Recent content in Favourites on Home</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Dec 2023 14:19:26 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/favourites/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:44065/categories/favourites/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>a yummy example fanfiction</title>
-      <link>http://localhost:1313/fics/example_3/</link>
+      <link>http://localhost:44065/fics/example_3/</link>
       <pubDate>Thu, 07 Dec 2023 14:19:26 +0000</pubDate>
-      <guid>http://localhost:1313/fics/example_3/</guid>
+      <guid>http://localhost:44065/fics/example_3/</guid>
       <description>Some characters eat some stuff.</description>
     </item>
     <item>
       <title>blood blood blood</title>
-      <link>http://localhost:1313/fics/example_2/</link>
+      <link>http://localhost:44065/fics/example_2/</link>
       <pubDate>Tue, 05 Dec 2023 13:38:10 +0000</pubDate>
-      <guid>http://localhost:1313/fics/example_2/</guid>
+      <guid>http://localhost:44065/fics/example_2/</guid>
       <description>Healthy loving love forever</description>
     </item>
   </channel>

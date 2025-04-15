@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dean/Cas on Home</title>
+    <link>http://localhost:44065/ships/dean/cas/</link>
+    <description>Recent content in Dean/Cas on Home</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Aug 2023 03:49:17 +0000</lastBuildDate>
+    <atom:link href="http://localhost:44065/ships/dean/cas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>an example fic</title>
+      <link>http://localhost:44065/fics/example_1/</link>
+      <pubDate>Sun, 20 Aug 2023 03:49:17 +0000</pubDate>
+      <guid>http://localhost:44065/fics/example_1/</guid>
+      <description>Some characters do some stuff.</description>
+    </item>
+  </channel>
+</rss>

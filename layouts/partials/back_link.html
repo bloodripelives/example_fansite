@@ -1,0 +1,12 @@
+{{ with .Parent }}
+    <a href="{{ .RelPermalink }}">{{ $.Site.Params.back_up_text }} to {{ $.Parent.Title }} </a>
+{{ end }}
+
+<br>
+
+{{ with .Parent.Parent }}
+    <a href="{{ "" | relURL }}">{{ $.Site.Params.back_home_text }}</a>
+{{ end }}
+
+
+

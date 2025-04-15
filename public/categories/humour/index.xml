@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Humour on An example fanfiction site.</title>
-    <link>http://localhost:1313/categories/humour/</link>
-    <description>Recent content in Humour on An example fanfiction site.</description>
+    <title>Humour on Home</title>
+    <link>http://localhost:44065/categories/humour/</link>
+    <description>Recent content in Humour on Home</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Dec 2023 13:38:10 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/humour/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:44065/categories/humour/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blood blood blood</title>
-      <link>http://localhost:1313/fics/example_2/</link>
+      <link>http://localhost:44065/fics/example_2/</link>
       <pubDate>Tue, 05 Dec 2023 13:38:10 +0000</pubDate>
-      <guid>http://localhost:1313/fics/example_2/</guid>
+      <guid>http://localhost:44065/fics/example_2/</guid>
       <description>Healthy loving love forever</description>
     </item>
   </channel>

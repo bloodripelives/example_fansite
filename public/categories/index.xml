@@ -1,67 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on An example fanfiction site.</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on An example fanfiction site.</description>
+    <title>Categories on Home</title>
+    <link>http://localhost:44065/categories/</link>
+    <description>Recent content in Categories on Home</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Dec 2023 14:19:26 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:44065/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Favourites</title>
-      <link>http://localhost:1313/categories/favourites/</link>
+      <link>http://localhost:44065/categories/favourites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/favourites/</guid>
+      <guid>http://localhost:44065/categories/favourites/</guid>
       <description></description>
     </item>
     <item>
       <title>Food</title>
-      <link>http://localhost:1313/categories/food/</link>
+      <link>http://localhost:44065/categories/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/food/</guid>
+      <guid>http://localhost:44065/categories/food/</guid>
       <description></description>
     </item>
     <item>
       <title>Recipes</title>
-      <link>http://localhost:1313/categories/recipes/</link>
+      <link>http://localhost:44065/categories/recipes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/recipes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Will/Hannibal</title>
-      <link>http://localhost:1313/categories/will/hannibal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/will/hannibal/</guid>
+      <guid>http://localhost:44065/categories/recipes/</guid>
       <description></description>
     </item>
     <item>
       <title>Humour</title>
-      <link>http://localhost:1313/categories/humour/</link>
+      <link>http://localhost:44065/categories/humour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/humour/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Louis/Armand</title>
-      <link>http://localhost:1313/categories/louis/armand/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/louis/armand/</guid>
+      <guid>http://localhost:44065/categories/humour/</guid>
       <description></description>
     </item>
     <item>
       <title>True Wuv</title>
-      <link>http://localhost:1313/categories/true-wuv/</link>
+      <link>http://localhost:44065/categories/true-wuv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/true-wuv/</guid>
+      <guid>http://localhost:44065/categories/true-wuv/</guid>
       <description></description>
     </item>
     <item>
-      <title>Dean/Cas</title>
-      <link>http://localhost:1313/categories/dean/cas/</link>
+      <title>Blasphemy</title>
+      <link>http://localhost:44065/categories/blasphemy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/dean/cas/</guid>
+      <guid>http://localhost:44065/categories/blasphemy/</guid>
       <description></description>
     </item>
   </channel>

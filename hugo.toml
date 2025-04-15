@@ -1,9 +1,55 @@
-baseURL = 'https://example.com/'
+baseURL = 'https://www.example.com/'
 languageCode = 'en-us'
-title = "An example fanfiction site."
-theme = 'nostyleplease'
+title = "Home"
+
+
 [taxonomies]
     tag = "tags"
     category = "categories"
     fandom = "fandoms"
-    source = "sources"
+    ship = "ships"
+
+
+
+
+[module]
+  [module.hugoVersion]
+    extended=true
+    min = "0.41.0"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'rrt'
+    tabWidth = 4
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+
+[params]
+display_title = "An Archive of Your Own"
+back_home_text = "← Home"
+back_up_text = "← Back"
+  [params.theme_config]
+    appearance = "auto"
+    date_format = "2006-01-02"
+
+
+preserveTaxonomyNames = true
+enableRobotsTXT = true

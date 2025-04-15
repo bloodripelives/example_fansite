@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fandoms on An example fanfiction site.</title>
-    <link>http://localhost:1313/fandoms/</link>
-    <description>Recent content in Fandoms on An example fanfiction site.</description>
+    <title>Fandoms on Home</title>
+    <link>http://localhost:44065/fandoms/</link>
+    <description>Recent content in Fandoms on Home</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Dec 2023 14:19:26 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/fandoms/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:44065/fandoms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hannibal</title>
-      <link>http://localhost:1313/fandoms/hannibal/</link>
+      <link>http://localhost:44065/fandoms/hannibal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fandoms/hannibal/</guid>
+      <guid>http://localhost:44065/fandoms/hannibal/</guid>
       <description></description>
     </item>
     <item>
       <title>Interview With the Vampire</title>
-      <link>http://localhost:1313/fandoms/interview-with-the-vampire/</link>
+      <link>http://localhost:44065/fandoms/interview-with-the-vampire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fandoms/interview-with-the-vampire/</guid>
+      <guid>http://localhost:44065/fandoms/interview-with-the-vampire/</guid>
       <description></description>
     </item>
     <item>
       <title>Bible</title>
-      <link>http://localhost:1313/fandoms/bible/</link>
+      <link>http://localhost:44065/fandoms/bible/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fandoms/bible/</guid>
+      <guid>http://localhost:44065/fandoms/bible/</guid>
       <description></description>
     </item>
     <item>
       <title>Supernatural</title>
-      <link>http://localhost:1313/fandoms/supernatural/</link>
+      <link>http://localhost:44065/fandoms/supernatural/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fandoms/supernatural/</guid>
+      <guid>http://localhost:44065/fandoms/supernatural/</guid>
       <description></description>
     </item>
   </channel>

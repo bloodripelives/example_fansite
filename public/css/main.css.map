@@ -3,7 +3,7 @@
 	"file": "main.css",
 	"sourceRoot": "/home/thais/Documents/websites/example_fansite",
 	"sources": [
-		"themes/nostyleplease/assets/css/main.scss"
+		"assets/css/main.scss"
 	],
 	"sourcesContent": [
 		"body {\n    background-color: #EEEEEE;\n    margin:40px auto;\n    max-width:650px;\n    line-height:1.6;\n    font-size:18px;\n    color:#444;\n    padding:0 10px\n    }\n\n    h1,h2,h3{line-height:1.2}\n\n    img {\n    max-width: 100%;\n    display: block;\n    margin: 0 auto;\n    }\n"
